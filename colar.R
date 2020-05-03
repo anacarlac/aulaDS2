@@ -11,8 +11,9 @@
 #'
 
 colar <- function(x, y) {
-  paste(x, y)
+  paste0(x, y)
 }
+
 
 
 
